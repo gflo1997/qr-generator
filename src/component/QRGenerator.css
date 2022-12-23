@@ -68,7 +68,6 @@ label, .paragraph, .subtitle {
   font-weight: bold;
   font-family: monospace;
   letter-spacing: 7px;
-  cursor: pointer;
   text-transform: uppercase;
   
 }
